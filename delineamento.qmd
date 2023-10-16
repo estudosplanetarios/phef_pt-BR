@@ -1,9 +1,0 @@
-# Delineamento do Modelo {.unnumbered}
-
-No centro do modelo \[educacional\] estão as cinco dimensões da Educação em Saúde Planetária, representadas em uma figura entrelaçada, semelhante aos fios de uma corda (@fig-3 e @fig-4). Embora o modelo separe cada dimensão, a realidade da Saúde Planetária nos exige compreender a natureza interdependente e interconectada de cada dimensão. A divisão das dimensões é artificial e permanece apenas para fins didáticos. Embora as dimensões possam ser desfiadas uma a uma (Figura 4), elas só funcionam apropriadamente quando entrelaçadas entre si. A analogia também enfatiza que a força total do plano, como uma corda e seus fios, é maior que a soma de suas partes. Os anéis externos do plano são as diferentes condições que influenciam a maneira pela qual as cinco dimensões são compreendidas e ensinadas; ou seja, como os temas, tópicos e conceitos-chave da Saúde Planetária variam com o tempo e o contexto.
-
-Promover a empatia por nosso planeta através do reconhecimento dos aspectos pessoais, cognitivos, sociais e emocionais do processo educacional é o elemento central do Modelo Educacional em Saúde Planetária. Para que a educação seja verdadeiramente transformadora, ela deve ser centrada nos aspectos afetivos, experienciais e de cuidado do processo de aprendizagem. Como um compromisso com esta mudança no papel da educação, do informativo para o transformador, colocamos a Interconexão na Natureza como elemento central das cinco dimensões.
-
-![O Modelo para Educação em Saúde Planetária.](figuras/figura3.png){#fig-3}
-
-![Um corte transversal da corda de 5 linhas.](figuras/figura4.png){#fig-4 width="703"}
