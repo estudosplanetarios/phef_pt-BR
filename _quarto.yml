@@ -1,0 +1,90 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Modelo para Educação em Saúde Planetária"
+  language: "pt-BR"
+  date: "2023-10-15"
+  sidebar:
+    style: docked
+    background: light
+  favicon: logo.png
+  site-url: https://estudosplanetarios.github.io/phef_pt-BR
+  repo-url: https://github.com/estudosplanetarios/phef_pt-BR
+  downloads: epub
+  author:
+  - name: Saulo Barboza
+    id: sb
+    orcid: 0000-0003-3285-7079
+    email: sbarboza@unaerp.br
+    affiliation: 
+      - name: Programa de Mestrado Profissional em Saúde e Educação da Universidade de Ribeirão Preto
+        city: Ribeirão Preto
+        state: São Paulo
+    corresponding: true
+  - name: Jacob dos Santos Biziak
+    id: jsb
+    orcid: 0000-0001-9495-5171
+    email: jacob.biziak@ifpr.edu.br
+    affiliation: 
+      - name: Curso de Letras, Instituto Federal de São Paulo, campus Sertãozinho
+        city: Sertãozinho
+        state: São Paulo
+  - name: Giselle Medeiros Mesiara 
+    id: gsm
+    orcid: 
+    email: mesiara@hotmail.com
+    affiliation: 
+      - name: Aliança para Saúde Planetária
+        city: X
+        state: X
+  chapters:
+    - index.qmd
+    - notas.qmd
+    - agradecimentos.qmd
+    - intro.qmd
+    - part: delineamento.qmd
+      chapters:
+      - interconexao-na-natureza.qmd
+      - antropoceno-e-saude.qmd
+      - pensamento-sistemico.qmd
+      - equidade.qmd
+      - movimento-e-mudanca.qmd
+    - futuro.qmd
+    - definicoes.qmd
+    - refs.qmd
+    - anexo.qmd
+
+
+bibliography: references.bib
+csl: ibict-abnt-initials.csl
+
+keywords:
+- Saúde Planetária
+- Educação
+- Tradução
+
+license: "CC BY"
+copyright: 
+  holder: Saulo Barboza
+  year: 2023
+citation: 
+  container-title: PHEF pt-BR
+  volume: 1
+  issue: 1
+  doi: 10.17605/OSF.IO/HK75U
+funding: "O tradutor e os revisores não receberam financiamento específico para a realização deste trabalho."
+
+
+format:
+  html:
+    theme: cosmo
+    cover-image: capa.png
+  pdf: 
+    documentclass: scrreprt
+  epub:
+    epub-cover-image: capa.png
+
+editor: visual
+

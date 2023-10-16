@@ -1,0 +1,39 @@
+# Pensamento Sistêmico / Abordagens Baseadas na Complexidade em Saúde Planetária
+
+> *"Portanto, não é apenas nossa ignorância, mas também nosso conhecimento que nos cega."*
+>
+> --- E. Morin
+
+> "*Deixe seu ego em casa e aprenda a ouvir*."
+>
+> --- A. A. Aguirre
+
+A palavra "**sistemas**" é derivada do grego "sunitánai", que significa "estar juntos" (ou seja, como um todo). A cientista ambiental e principal autora do livro *Limits to Growth* \[Limites para o Crescimento\] do Clube de Roma, Donella Meadows, definiu sistemas como:
+
+| *Um conjunto de elementos ou partes organizadas de forma coerente e interconectadas em um padrão ou estrutura que produz um conjunto característico de comportamentos, muitas vezes classificado conforme sua "função" ou "propósito"* [@meadows_thinking_2008]*.*
+
+Portanto, o pensamento sistêmico visa a conectar elementos entre si dentro de alguma noção de uma entidade inteira. O pensamento sistêmico usa modelos explícitos (premissas claras) ao invés de modelos mentais implícitos (ou seja, pressupostos não revelados e falta de dados pontuais), ajudando assim a identificar e comunicar premissas subjacentes e fornecer modelos basais a serem reproduzidos por outros. O pensamento sistêmico tem origens e aplicações em muitos campos e teorias diferentes, como na Panarquia [@wilcox_operationalizing_2019]. Em essência, requer uma abordagem transdisciplinar para conceituar, modelar e compreender fenômenos complexos em busca de mudanças benéficas.
+
+No entanto, na educação superior, tendências reducionistas que ignoram a complexidade do pensamento sistêmico ainda prevalecem. Isso é mais claramente representado na natureza isolada das disciplinas tradicionais e nas tendências de hiperespecialização. Recentemente, vários relatórios influentes enfatizaram a necessidade de atualizar os processos e as instituições educacionais para uma abordagem de sistemas (ver Profissionais de saúde para um novo século: transformando a educação para fortalecer os sistemas de saúde em um mundo interdependente [@frenk_health_2010] e o Relatório de Aceleração da Educação para os ODS nas Universidades [@sdsn_accelerating_2020]).
+
+O campo da Saúde Planetária baseia-se em abordagens do pensamento sistêmico que há muito tempo têm sido foco na área da Ecologia. Trabalhos iniciais sobre o conceito de "ecossistemas" basearam-se no pensamento sistêmico para descrever as maneiras pelas quais vários elementos interagem e se aglutinam como parte de sistemas complexos [@odum_new_1964]. O pensamento sistêmico na ecologia, desde então, mudou suas visões tradicionalmente hierárquicas dos processos ecológicos para representações em rede que integram as interações heterogêneas de variáveis em escalas espaciais e temporais (por exemplo, a ecologia de sistemas [@odum_new_1964]). Mais recentemente, esforços para entender melhor as interações humano-ambientais (por exemplo, serviços ecossistêmicos e a contribuição da Natureza para as pessoas) exigem a consideração de sistemas entre disciplinas [@diaz_assessing_2018; @fiksel_triple_2013; @ipbes_global_2019].
+
+O Relatório de Saúde Planetária da Fundação Rockefeller -- Comissão Lancet [@whitmee_safeguarding_2015] defende que uma abordagem sistêmica é a chave para a compreensão de como a saúde e o bem-estar humanos emergem das complexas interações entre os sistemas naturais e sociais. O relatório aponta que o pensamento sistêmico é essencial para melhor prevenir consequências negativas não intencionais de mudanças antrópicas nos sistemas da Terra. Nesse contexto, o pensamento sistêmico pode ser definido como "uma abordagem holística para compreender as interações dinâmicas entre sistemas econômicos, ambientais e sociais complexos e para avaliar consequências potenciais de intervenções" [@fiksel_triple_2013].
+
+**O objetivo transversal da Educação em Saúde Planetária nesta dimensão é que aprendizes consigam projetar e implementar soluções transformadoras colaborativamente para os desafios da Saúde Planetária usando o pensamento sistêmico.**
+
+Na Saúde Planetária, e para fins de processos educacionais, é essencial caracterizar as conexões entre as mudanças ambientais e a saúde humana em diferentes escalas geoespaciais e temporais, empregando entendimentos baseados em sistemas que incorporem características de sistemas adaptativos complexos. Algumas dessas características incluem relações causais não lineares, pontos de alavancagem, características emergentes, auto-organização e ciclos de retroalimentação. Além disso, aprendizes precisam de autoconsciência e empatia para reconhecer seus próprios vieses e fundamentos epistemológicos. Aprendizes devem ser capazes de apreciar a natureza diversa e evolutiva do conhecimento e refletir criticamente sobre a influência das perspectivas e interesses de atores heterogêneos no processo de geração e manutenção do conhecimento.
+
+# **Principais conceitos e áreas de estudo sobre Complexidade e Pensamento Sistêmico** {.unnumbered}
+
+Diversidade epistemológica e humildade
+
+Transdisciplinaridade
+
+Incerteza
+
+Vieses implícitos/explícitos e autoconsciência
+
+Consequências inesperadas/não intencionais
+
+Escala, incluindo escalas geográficas (local/regional/global -- micro/meso/macro) e escalas temporais (passado/presente/futuro -- prioridade máxima/baixa -- urgente/eletivo)
