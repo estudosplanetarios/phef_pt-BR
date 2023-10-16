@@ -1,0 +1,111 @@
+# Prólogo {.unnumbered}
+
+O Modelo para Educação em Saúde Planetária é uma tradução para o português-brasileiro do *Planetary Health Education Framework* [@planetary_health_alliance_planetary_2021], um projeto da Aliança para Saúde Planetária ([*Planetary Health Alliance*](www.planetaryhealthalliance.org)). A Aliança para Saúde Planetária é um consórcio de mais de 350 parceiros ao redor do mundo empenhados em compreender e lidar com os impactos da mudança ambiental na saúde humana. Os editores e co-autores do texto base do *Planetary Health Education Framework* estão listados abaixo. O processo de tradução e revisão desta versão brasileira do Modelo para Educação em Saúde Planetária está registrada no *Open Science Framework*: [osf.io/kfpeu](osf.io/kfpeu)
+
+# **Editores**
+
+**Carlos A. Faerron Guzman, MD, MSc**
+
+Diretor Associado da Aliança de Saúde Planetária, Professor Assistente da Escola de Pós-Graduação da Universidade de Maryland, Baltimore, Estados Unidos, e Diretor Geral do Centro Interamericano para a Saúde Global, Costa Rica.
+
+**Teddie Potter, PhD, RN, FAAN**
+
+Professor Clínico e Diretor de Saúde Planetária, Escola de Enfermagem, Universidade de Minnesota, Minneapolis, Estados Unidos.
+
+# Co-autores
+
+**A. Alonso Aguirre**
+
+*Environmental Science and Policy, George Mason University Fairfax*, Virginia, Virgínia, Estados Unidos
+
+**Barbara Astle**
+
+*School of Nursing, Trinity Western University, Langley*, Colúmbia Britânica, Canadá
+
+**Enrique Falceto de Barros**
+
+Universidade Federal do Rio Grande do Sul, *World Organization of Famility Doctors*, Caxias do Sul, Brasil
+
+**Brett R. Bayles**
+
+*Global Public Health, School of Health and Natural Sciences, Dominican University of California*, São Rafael, Califórnia, Estados Unidos
+
+**Moses Chimbari**
+
+*School of Nursing and Public Health*, *University of KwaZulu-Natal*, Joanesburgo, Gauteng, África do Sul
+
+**Naglaa El-Abbadi**
+
+*Nutrition Epidemiology and Data Science*, *Tufts University*, Boston, Massachusetts, Estados Unidos
+
+**Jessica Evert**
+
+*Child Family Health International*, *University of California San Francisco*, Oakland, Califórnia, Estados Unidos
+
+**Carlos A. Faerron-Guzmán**
+
+*Planetary Health Alliance*, Boston, Massachusetts, Estados Unidos, *University of Maryland*, Baltimore, Estados Unidos, e *Centro Interamericano para la Salud Global*, Costa Rica
+
+**Finola Hackett**
+
+*Cumming School of Medicine*, *University of Calgary*, Calgary, Alberta, Canadá
+
+**Courtney Howard**
+
+*School of Medicine*, *University of Calgary*, *Dahdaleh Institute for Global Health Research*, Calgary, Alberta, Canadá
+
+**Jonathan Jennings**
+
+*Health In Harmony*, Portland, Oregon, Estados Unidos
+
+**Amy Krzyzek**
+
+*Partnership Health Center*, Missoula, Montana, Estados Unidos
+
+**Jessica LeClair**
+
+*School of Nursing*, *University of Wisconsin-Madison*, Madison, Wisconsin, Estados Unidos
+
+**Filip Maric**
+
+*Health and Care Sciences*, *UiT The Arctic University of Norway*, Tromso, Noruega
+
+**Olwenn Martin**
+
+*Global Challenges,* *Brunel University London*, Middlesex, Inglaterra, Reino Unido
+
+**Odipo Osano**
+
+*School of Environmental Studies*, *University of Eldoret*, Eldoret, Quênia
+
+**Jonathan Patz**
+
+*Population Health Science*, *University of Wisconsin-Madison*, Wisconsin, Estados Unidos
+
+**Teddie Potter**
+
+*School of Nursing*, *University of Minnesota*, Minneapolis, Minnesota, Estados Unidos
+
+**Nicole Redvers**
+
+*School of Medicine and Health Sciences*, *University of North Dakota*, Grand Forks, Dakota do Norte, Estados Unidos
+
+**Noortje Trienekens**
+
+*Health In Harmony,* Portland, Oregon, Estados Unidos
+
+**Sarah Walpole**
+
+*Newcastle University*, *Newcastle Hospitals*, *Newcastle upon Tyne, Tyne and Wear*, Inglaterra, Reino Unido
+
+**Lynda Wilson**
+
+*School of Nursing*, *University of Alabama at Birmingham*, Alabama, Estados Unidos
+
+**Chenchen Xu**
+
+*School of Medicine*, *University of Ottawa*, Ottawa, Ontário, Canadá
+
+**Matthew Zylstra**
+
+*Organisation for Noetic Ecology*, Plettenberg Bay, África do Sul
