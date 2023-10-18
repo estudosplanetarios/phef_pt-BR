@@ -1,3 +1,3 @@
 # phef_pt-BR
 
-Documentação da Versão Brasileira do *Planetary Health Education Framework.*
+Documentação do [Modelo Educacional em Saúde Planetária](https://estudosplanetarios.github.io/phef_pt-BR).
